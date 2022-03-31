@@ -13,4 +13,5 @@ function MeetupDetail(props){
         </section>
     );
 }
+
 export default MeetupDetail;
